@@ -7,7 +7,7 @@
 [To-Do](#to-do)
 
 
-# [BNC Stocks](www.bncstocks.com)
+# [BNC Stocks](https://bncstocks.com/)
 BNC Stocks was created by a friend and I to share our in-depth analysis of our stock trades with the internet. The beginning of last year I becam fascinated with the stock market and its potential to change my life. A dream of mine is to secure financial freedom, I believe this could be a great opportunity to pursue that. So I took it on as a learning opportunity and dug into some books, learning as much as I could. My friend(cam) is very knowledgeable on the topic which made him a great partner for this project. We combined our expertise's and taught each other as much as we could. And thus, BNC Stocks was born. 
 
 # Goals
